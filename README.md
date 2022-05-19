@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EnlightenedEmu
+- 👀 I’m interested in Cyber Security 
+- 🌱 I’m currently learning Cyber Security and Scripting
+- 💞️ I’m looking to collaborate on bash scripting and python scripting
+-    Send me an email to asifemrul@gmail.com to communicate with me
